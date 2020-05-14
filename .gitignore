@@ -1,0 +1,16 @@
+.vs/*
+
+Domain/obj/*
+Domain/bin/*
+
+Infrastructure/obj/*
+Infrastructure/bin/*
+
+Application/bin/*
+Application/obj/*
+
+Presentation/bin/*
+Presentation/obj/*
+
+Persistence/obj/*
+Persistence/bin/*
